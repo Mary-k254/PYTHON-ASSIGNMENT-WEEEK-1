@@ -1,10 +1,10 @@
 # Basic Calculator Program
 
-# Ask the user to input two numbers
+# Input two numbers
 num1 = float(input("Enter the first number: "))
 num2 = float(input("Enter the second number: "))
 
-# Ask the user to input a mathematical operation
+# Input a mathematical operation
 operation = input("Enter the operation (+, -, *, /): ")
 
 # Perform the operation and display the result
